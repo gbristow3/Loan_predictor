@@ -1,1 +1,1 @@
-# Loan_predictor
+# loan_prediction machine learning project
